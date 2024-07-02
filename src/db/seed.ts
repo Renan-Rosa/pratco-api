@@ -1,5 +1,3 @@
-/* eslint-disable drizzle/enforce-delete-with-where */
-
 import {
   authLinks,
   evaluations,
@@ -55,7 +53,7 @@ const [manager] = await db
   .insert(users)
   .values({
     name: faker.person.fullName(),
-    email: 'diego.schell.f@gmail.com',
+    email: 'renan@pratco.com.br',
     role: 'manager',
   })
   .returning()
