@@ -1,4 +1,4 @@
-# 🍕 pizza.shop API
+# ©️ pratco.API
 
 Food delivery app (aka. iFood/Uber Eats) back-end built with TypeScript, Drizzle a ElysiaJS.
 
